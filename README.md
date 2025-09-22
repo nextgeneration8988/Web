@@ -23,7 +23,7 @@ It also includes a **visual diagram** (Mermaid chart) to illustrate the relation
 ## 📌 1. Front-end Frameworks
 Frameworks and libraries used to build the **user interface (UI)** — what users see and interact with.
 
-- **React.js** ⚛️ – Library (works like a framework), most popular.  
+- [React.js](./frontend/react.md) ⚛️ – Library (works like a framework), most popular.  
 - **Angular** 🅰️ – Full-featured framework by Google.  
 - **Vue.js** 🟩 – Lightweight and easy to learn.  
 - **Svelte** 🔥 – Modern and fast.  
