@@ -24,7 +24,7 @@ It also includes a **visual diagram** (Mermaid chart) to illustrate the relation
 Frameworks and libraries used to build the **user interface (UI)** — what users see and interact with.
 
 - [React.js](./frontend/react.md) ⚛️ – Library (works like a framework), most popular.  
-- **Angular** 🅰️ – Full-featured framework by Google.  
+- [Angular](frontend/angular.md) – A TypeScript-based framework for building scalable web apps.
 - **Vue.js** 🟩 – Lightweight and easy to learn.  
 - **Svelte** 🔥 – Modern and fast.  
 - **Next.js** 🚀 – React-based, supports SSR & static generation.  
