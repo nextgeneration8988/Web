@@ -42,8 +42,9 @@ my-app/
 └── package.json     # Dependencies & scripts
 ```
 # 🚀 Way 2: Build a React App from Scratch
+>- This is the recommended method if you want to master React
 
-> A comprehensive guide to building a React application from scratch using modern build tools
+>- A comprehensive guide to building a React application from scratch using modern build tools
 
 ## Step 1: Install a Build Tool
 
@@ -321,12 +322,6 @@ If you don't want to solve these problems on your own, you can get started with 
 ## 🤝 Contributing
 
 If you find errors or have suggestions for improvements, we welcome your contributions!
-
----
-
-## 📄 License
-
-This guide is available under the MIT License.
 
 ---
 
