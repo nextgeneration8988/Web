@@ -25,7 +25,7 @@ Frameworks and libraries used to build the **user interface (UI)** — what user
 
 - [React.js](./frontend/react.md) ⚛️ – Library (works like a framework), most popular.  
 - [Angular](frontend/angular.md) – A TypeScript-based framework for building scalable web apps.
-- **Vue.js** 🟩 – Lightweight and easy to learn.  
+- [Vue.js](frontend/Vue.md) 🟩 – Lightweight and easy to learn.  
 - **Svelte** 🔥 – Modern and fast.  
 - **Next.js** 🚀 – React-based, supports SSR & static generation.  
 - **Nuxt.js** 🌙 – Vue-based, similar to Next.js.  
